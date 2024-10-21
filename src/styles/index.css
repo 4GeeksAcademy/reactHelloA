@@ -10,3 +10,16 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.navbar{
+    background-color: rgb(6, 3, 172);
+   ;
+
+}
+
+.navbar a{
+    color: azure;
+}
+#base{
+    background-color: rgb(6, 3, 172);
+
+}
