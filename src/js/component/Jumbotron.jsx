@@ -7,7 +7,7 @@ const Jumbotron = () => {
     return (
         <div className="jumbotron">
   <h1 className="display-4">Bienvenido amante de los Videojuegos</h1>
-  <p className="lead">Esta página te hace descuchir los mejores Videojuegos para todas las plataformas</p>
+  <p className="lead">Esta página te hace descubir los mejores Videojuegos para todas las plataformas</p>
   
   <p>A continuación te muestro algunos de los mejores juegos.</p>
   <p className="lead">
