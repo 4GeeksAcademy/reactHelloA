@@ -19,7 +19,22 @@
 .navbar a{
     color: azure;
 }
+
+
+
+.jumbotron{
+    margin: 5%;
+}
+
+.cards{
+    margin-top: 10%;
+}
+
 #base{
-    background-color: rgb(6, 3, 172);
+    background-color:;
+    margin-top: 24%;
+  
+
+
 
 }
